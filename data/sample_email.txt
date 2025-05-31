@@ -1,0 +1,8 @@
+Dear Team,
+
+We would like to request a quote for 100 units of your product.
+Please send us an RFQ as soon as possible.
+
+Thanks,
+Acme Corp
+// sample_email.txt

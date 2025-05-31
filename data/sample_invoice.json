@@ -1,0 +1,9 @@
+{
+  "invoice_id": "INV-1001",
+  "customer": "Acme Corp",
+  "items": [
+    {"name": "Widget A", "quantity": 10, "price": 5.0},
+    {"name": "Widget B", "quantity": 5, "price": 7.5}
+  ],
+  "total": 87.5
+}
